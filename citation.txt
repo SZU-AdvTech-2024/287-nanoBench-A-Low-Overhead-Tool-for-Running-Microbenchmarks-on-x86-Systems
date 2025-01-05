@@ -1,0 +1,6 @@
+@article{REPO287,
+    author = {Abel, Andreas and K{\"o}ppe, Matthias and Hack, Sebastian},
+    journal = "arXiv preprint arXiv:1911.03282",
+    title = "{nanoBench: A Low-Overhead Tool for Running Microbenchmarks on x86 Systems}",
+    year = "2019"
+}
